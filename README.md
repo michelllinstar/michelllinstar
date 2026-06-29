@@ -52,22 +52,17 @@ Lately I've been deep in **agentic AI and developer tooling** and the infrastruc
      Trophies and the activity graph are commented out below — enable them once you're happy with how they look. -->
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=michelllinstar&show_icons=true&include_all_commits=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelllinstar&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=michelllinstar&theme=tokyonight" /></a>
 </p>
 
-
+<!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=michelllinstar&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=michelllinstar&theme=tokyo-night" />
 </p>
-
+-->
 
 ## Beyond the terminal
 
