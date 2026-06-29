@@ -21,7 +21,7 @@ Lately I've been deep in **agentic AI and developer tooling** and the infrastruc
 
 ## What I'm working on
 
-- **OmniVision Technologies** *(internship)* — camera image-signal-processing (ISP) pipelines and SDK internals: how raw sensor data becomes a usable image, and how developers interface with it.
+- **OmniVision Technologies** *(internship)* — camera image-signal-processing (ISP) pipelines
 - **Break Through Tech AI** — a year-long program building real machine-learning projects with industry mentorship.
 - **ML for Health** — applying machine learning to medical and health data on a student design team.
 - **Female crash-test-dummy simulation** *(UCLA BMES)* — simulation and data insights aimed at safety standards that account for *everyone*, not just the average male body crash dummies were historically modeled on.
