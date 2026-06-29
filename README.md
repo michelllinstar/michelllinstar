@@ -10,17 +10,17 @@
   <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,flask,fastapi,nodejs,postgres,mongodb,docker,git,c,sklearn,figma" />
 </p>
 
-<!-- Optional animated tagline — uncomment to use:
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Building+agentic+AI+tools;Full-stack+web+%26+UX;CS+%40+UCLA,+Class+of+2028" />
 </p>
--->
+
 
 ## Hi, I'm Michelle
 
 I'm a Computer Science student at UCLA heading into my junior year (Class of 2028). Most of what I build sits somewhere between artificial intelligence, full-stack web development, and the UX/UI that makes both actually usable. I like taking problems that are messy, tedious, or opaque and turning them into tools that feel obvious to use.
 
-Lately I've been deep in **agentic AI and developer tooling** — systems where models don't just answer questions but *do* things, and the infrastructure that makes that reliable.
+Lately I've been deep in **agentic AI and developer tooling** and the infrastructure that makes that reliable.
 
 ## What I'm working on
 
