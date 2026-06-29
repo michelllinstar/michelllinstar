@@ -60,14 +60,14 @@ Lately I've been deep in **agentic AI and developer tooling** and the infrastruc
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=michelllinstar&theme=tokyonight" /></a>
 </p>
 
-<!-- Optional extras — remove these comment markers after previewing:
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=michelllinstar&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=michelllinstar&theme=tokyo-night" />
 </p>
--->
+
 
 ## Beyond the terminal
 
