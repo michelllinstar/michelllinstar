@@ -6,9 +6,6 @@
   <a href="https://devpost.com/your-handle"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,flask,fastapi,nodejs,postgres,mongodb,docker,git,c,sklearn,figma" />
-</p>
 
 
 <p align="center">
