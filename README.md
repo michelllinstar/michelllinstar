@@ -66,7 +66,7 @@ Lately I've been deep in **agentic AI and developer tooling** and the infrastruc
 
 ## Beyond the terminal
 
-When I'm not building things, I'm usually guessing where in the world a random street view is (GeoGuessr), playing mahjong, optimizing a Slay the Spire run, or drawing — I make and sell my own artwork. A lot of how I think about systems comes from games: read the board, find the leverage, commit.
+When I'm not building things, I'm usually sidequesting, drawing, or dressing up my 5'4 giant stuffed duck (incredible investment).
 
 ## Let's talk
 
