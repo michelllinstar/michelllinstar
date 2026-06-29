@@ -28,11 +28,6 @@ Lately I've been deep in **agentic AI and developer tooling** and the infrastruc
 
 ## Featured projects
 
-<p align="center">
-  <a href="https://github.com/michelllinstar/LAHacks2026"><img src="https://github-readme-stats.vercel.app/api/pin/?username=michelllinstar&repo=LAHacks2026&theme=tokyonight" /></a>
-  <a href="https://github.com/michelllinstar/Homiely_CS35L"><img src="https://github-readme-stats.vercel.app/api/pin/?username=michelllinstar&repo=Homiely_CS35L&theme=tokyonight" /></a>
-</p>
-
 **MarkCodePolo** — *Won the GoDaddy Challenge at LA Hacks 2026.* An AI agent's map to a codebase: instead of letting coding agents blindly grep-and-read their way through unfamiliar code, it builds a semantic index of a repository — symbols, data flows, architecture, and the unspoken invariants — and serves it to any agent over an MCP server, with a live visualization frontend on top.
 *FastAPI · Next.js · tree-sitter · sentence-transformers · Gemini · MongoDB · MCP · Fetch.ai uAgents*
 
